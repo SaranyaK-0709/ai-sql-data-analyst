@@ -1,0 +1,26 @@
+player_id,player_name,nationality,age,position,club,league,matches_played,goals,assists,yellow_cards,red_cards,pass_accuracy_pct,shot_accuracy_pct,dribble_success_pct,tackles_per_match,interceptions_per_match,market_value_million_eur,weekly_wage_eur,contract_until_year,injury_days_this_season,rating
+P001,Liam Torres,Spain,28,Forward,FC Barcelona,La Liga,34,26,11,4,0,84.2,58.3,72.1,1.2,0.8,95,180000,2026,7,9.1
+P002,Kai Müller,Germany,24,Midfielder,Bayern Munich,Bundesliga,32,12,18,6,1,91.5,45.2,65.4,3.8,2.1,72,140000,2027,0,8.6
+P003,Diego Romero,Brazil,30,Forward,Real Madrid,La Liga,30,22,8,3,0,81.3,61.0,78.5,0.9,0.5,88,200000,2025,14,8.9
+P004,James Harrington,England,26,Midfielder,Manchester City,Premier League,36,9,22,8,0,93.2,38.4,60.2,4.5,3.0,68,160000,2027,0,8.7
+P005,Antoine Dubois,France,22,Forward,PSG,Ligue 1,31,18,9,2,0,78.4,55.6,80.3,0.7,0.4,60,90000,2028,5,8.3
+P006,Carlos Mendez,Argentina,32,Forward,Inter Milan,Serie A,28,20,6,5,1,79.1,59.8,70.2,1.0,0.6,55,120000,2025,21,8.4
+P007,Yuki Tanaka,Japan,25,Midfielder,Juventus,Serie A,35,7,14,5,0,90.8,41.2,62.3,3.9,2.5,40,75000,2027,3,8.1
+P008,Marco Rossi,Italy,29,Defender,AC Milan,Serie A,38,3,5,7,0,87.4,30.1,55.8,5.8,3.8,45,95000,2026,0,8.0
+P009,Neymar Santos,Brazil,31,Forward,Al-Hilal,Saudi Pro,29,24,13,6,1,82.0,60.5,82.1,0.8,0.3,70,350000,2025,18,8.5
+P010,Erling Hansen,Norway,23,Forward,Manchester City,Premier League,33,29,10,3,0,76.5,64.2,65.0,0.8,0.5,150,250000,2028,2,9.4
+P011,Bernardo Cruz,Portugal,27,Midfielder,Manchester City,Premier League,37,11,19,4,0,94.1,42.5,68.9,4.2,2.8,80,170000,2026,0,8.8
+P012,Gabriel Oliveira,Brazil,26,Defender,Arsenal,Premier League,36,5,4,9,1,85.2,25.4,48.3,6.2,4.1,50,110000,2027,8,7.8
+P013,Pedri Gonzalez,Spain,21,Midfielder,FC Barcelona,La Liga,30,8,16,3,0,93.8,40.8,75.6,3.6,2.2,90,130000,2029,12,8.9
+P014,Vinicius Ferreira,Brazil,23,Forward,Real Madrid,La Liga,32,21,12,4,0,83.5,57.9,84.2,0.9,0.4,100,175000,2027,4,9.0
+P015,Toni Hoffmann,Germany,33,Defender,Bayern Munich,Bundesliga,35,2,3,10,0,88.6,20.3,44.1,6.5,4.3,30,80000,2025,0,7.5
+P016,Roberto Firmino,Brazil,32,Forward,Al-Ahli,Saudi Pro,26,16,10,4,0,85.2,54.1,71.8,1.1,0.7,25,280000,2025,9,8.0
+P017,Jude Harrison,England,20,Midfielder,Real Madrid,La Liga,35,13,15,5,0,89.4,44.6,70.1,3.5,2.0,110,190000,2029,0,8.8
+P018,Achraf Benali,Morocco,25,Defender,PSG,Ligue 1,34,4,7,6,0,86.9,28.7,58.2,5.4,3.5,55,105000,2027,5,8.1
+P019,Lautaro Gomez,Argentina,26,Forward,Inter Milan,Serie A,33,23,7,4,0,80.2,58.8,68.4,1.0,0.5,75,145000,2026,6,8.7
+P020,Khvicha Kvaratskheliav,Georgia,23,Forward,PSG,Ligue 1,31,17,14,3,0,85.6,52.3,79.4,0.9,0.6,65,115000,2028,0,8.6
+P021,Federico Valverde,Uruguay,25,Midfielder,Real Madrid,La Liga,36,10,13,7,0,88.2,43.7,64.5,4.0,2.6,65,120000,2027,0,8.5
+P022,Declan Wright,England,25,Midfielder,Real Madrid,La Liga,34,5,10,8,1,90.4,36.1,55.9,5.0,3.4,65,140000,2028,10,8.2
+P023,Bukayo Odegba,England,22,Forward,Arsenal,Premier League,35,20,15,2,0,86.1,56.4,76.8,1.2,0.9,90,155000,2027,3,9.0
+P024,Martin Okonkwo,Norway,22,Midfielder,Atletico Madrid,La Liga,33,8,17,6,0,92.0,39.8,63.2,3.7,2.3,50,90000,2028,0,8.4
+P025,Riyad Bensalem,Algeria,32,Midfielder,Al-Nassr,Saudi Pro,27,9,8,5,0,87.3,41.5,66.7,3.2,2.0,20,230000,2025,11,7.7

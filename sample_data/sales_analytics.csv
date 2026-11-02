@@ -1,0 +1,61 @@
+order_id,date,region,country,salesperson,product,category,units_sold,unit_price,revenue,cost,profit,customer_age,customer_gender,channel,rating
+1001,2024-01-03,North,USA,Alice Johnson,Laptop Pro,Electronics,5,1200.00,6000.00,4200.00,1800.00,34,Female,Online,4.5
+1002,2024-01-05,South,USA,Bob Smith,Office Chair,Furniture,12,250.00,3000.00,1800.00,1200.00,28,Male,Store,4.0
+1003,2024-01-07,East,Canada,Carol White,Smartphone X,Electronics,8,899.00,7192.00,5040.00,2152.00,45,Female,Online,4.8
+1004,2024-01-09,West,USA,David Lee,Standing Desk,Furniture,3,650.00,1950.00,1170.00,780.00,39,Male,Store,3.9
+1005,2024-01-11,North,USA,Alice Johnson,Wireless Headphones,Electronics,20,150.00,3000.00,1800.00,1200.00,22,Female,Online,4.6
+1006,2024-01-13,South,Mexico,Eva Martinez,Coffee Table,Furniture,7,180.00,1260.00,756.00,504.00,55,Female,Store,4.2
+1007,2024-01-15,East,Canada,Frank Brown,Tablet Air,Electronics,10,600.00,6000.00,4200.00,1800.00,31,Male,Online,4.7
+1008,2024-01-17,West,USA,Grace Kim,Bookshelf,Furniture,15,120.00,1800.00,900.00,900.00,27,Female,Online,3.8
+1009,2024-01-19,North,USA,Henry Patel,Smart Watch,Electronics,25,350.00,8750.00,5250.00,3500.00,38,Male,Store,4.9
+1010,2024-01-21,South,USA,Bob Smith,Sofa Set,Furniture,2,1500.00,3000.00,1800.00,1200.00,44,Male,Store,4.3
+1011,2024-01-23,East,Canada,Carol White,Gaming PC,Electronics,4,2200.00,8800.00,6160.00,2640.00,26,Male,Online,4.8
+1012,2024-01-25,West,USA,David Lee,Ergonomic Chair,Furniture,9,400.00,3600.00,2160.00,1440.00,33,Female,Online,4.1
+1013,2024-02-01,North,USA,Alice Johnson,Laptop Pro,Electronics,7,1200.00,8400.00,5880.00,2520.00,41,Male,Online,4.6
+1014,2024-02-03,South,Mexico,Eva Martinez,Dining Table,Furniture,4,550.00,2200.00,1320.00,880.00,50,Female,Store,4.4
+1015,2024-02-05,East,Canada,Frank Brown,Smartphone X,Electronics,11,899.00,9889.00,6923.00,2966.00,29,Male,Online,4.7
+1016,2024-02-07,West,USA,Grace Kim,TV Stand,Furniture,6,200.00,1200.00,720.00,480.00,36,Female,Store,3.7
+1017,2024-02-09,North,USA,Henry Patel,Bluetooth Speaker,Electronics,30,80.00,2400.00,1440.00,960.00,23,Male,Online,4.5
+1018,2024-02-11,South,USA,Bob Smith,Wardrobe,Furniture,3,900.00,2700.00,1620.00,1080.00,48,Female,Store,4.1
+1019,2024-02-13,East,Canada,Carol White,Tablet Air,Electronics,14,600.00,8400.00,5880.00,2520.00,35,Male,Online,4.6
+1020,2024-02-15,West,USA,David Lee,Desk Lamp,Furniture,22,45.00,990.00,594.00,396.00,30,Male,Store,4.0
+1021,2024-02-17,North,USA,Alice Johnson,Smart Watch,Electronics,18,350.00,6300.00,3780.00,2520.00,43,Female,Online,4.8
+1022,2024-02-19,South,Mexico,Eva Martinez,Recliner,Furniture,5,700.00,3500.00,2100.00,1400.00,58,Male,Store,4.3
+1023,2024-02-21,East,Canada,Frank Brown,Gaming PC,Electronics,6,2200.00,13200.00,9240.00,3960.00,27,Male,Online,4.9
+1024,2024-02-23,West,USA,Grace Kim,Storage Cabinet,Furniture,11,300.00,3300.00,1980.00,1320.00,32,Female,Online,3.9
+1025,2024-03-01,North,USA,Henry Patel,Laptop Pro,Electronics,9,1200.00,10800.00,7560.00,3240.00,40,Male,Online,4.7
+1026,2024-03-03,South,USA,Bob Smith,Coffee Table,Furniture,8,180.00,1440.00,864.00,576.00,25,Female,Store,4.2
+1027,2024-03-05,East,Canada,Carol White,Wireless Headphones,Electronics,35,150.00,5250.00,3150.00,2100.00,37,Male,Online,4.5
+1028,2024-03-07,West,USA,David Lee,Sofa Set,Furniture,2,1500.00,3000.00,1800.00,1200.00,52,Female,Store,4.4
+1029,2024-03-09,North,USA,Alice Johnson,Smartphone X,Electronics,13,899.00,11687.00,8181.00,3506.00,28,Female,Online,4.6
+1030,2024-03-11,South,Mexico,Eva Martinez,Bookshelf,Furniture,18,120.00,2160.00,1080.00,1080.00,46,Male,Online,3.8
+1031,2024-03-13,East,Canada,Frank Brown,Smart Watch,Electronics,22,350.00,7700.00,4620.00,3080.00,33,Female,Store,4.7
+1032,2024-03-15,West,USA,Grace Kim,Ergonomic Chair,Furniture,7,400.00,2800.00,1680.00,1120.00,29,Male,Online,4.1
+1033,2024-03-17,North,USA,Henry Patel,Gaming PC,Electronics,5,2200.00,11000.00,7700.00,3300.00,24,Male,Online,4.9
+1034,2024-03-19,South,USA,Bob Smith,Dining Table,Furniture,3,550.00,1650.00,990.00,660.00,51,Female,Store,4.3
+1035,2024-03-21,East,Canada,Carol White,Bluetooth Speaker,Electronics,40,80.00,3200.00,1920.00,1280.00,26,Male,Online,4.4
+1036,2024-03-23,West,USA,David Lee,Wardrobe,Furniture,4,900.00,3600.00,2160.00,1440.00,47,Female,Store,4.0
+1037,2024-04-01,North,USA,Alice Johnson,Tablet Air,Electronics,16,600.00,9600.00,6720.00,2880.00,36,Male,Online,4.8
+1038,2024-04-03,South,Mexico,Eva Martinez,TV Stand,Furniture,9,200.00,1800.00,1080.00,720.00,53,Female,Store,3.9
+1039,2024-04-05,East,Canada,Frank Brown,Laptop Pro,Electronics,8,1200.00,9600.00,6720.00,2880.00,31,Male,Online,4.6
+1040,2024-04-07,West,USA,Grace Kim,Standing Desk,Furniture,5,650.00,3250.00,1950.00,1300.00,38,Female,Online,4.2
+1041,2024-04-09,North,USA,Henry Patel,Wireless Headphones,Electronics,28,150.00,4200.00,2520.00,1680.00,22,Male,Store,4.5
+1042,2024-04-11,South,USA,Bob Smith,Office Chair,Furniture,14,250.00,3500.00,2100.00,1400.00,44,Female,Online,4.1
+1043,2024-04-13,East,Canada,Carol White,Smart Watch,Electronics,19,350.00,6650.00,3990.00,2660.00,39,Male,Online,4.7
+1044,2024-04-15,West,USA,David Lee,Desk Lamp,Furniture,25,45.00,1125.00,675.00,450.00,27,Female,Store,3.8
+1045,2024-04-17,North,USA,Alice Johnson,Gaming PC,Electronics,6,2200.00,13200.00,9240.00,3960.00,35,Male,Online,4.9
+1046,2024-04-19,South,Mexico,Eva Martinez,Recliner,Furniture,4,700.00,2800.00,1680.00,1120.00,60,Female,Store,4.3
+1047,2024-04-21,East,Canada,Frank Brown,Smartphone X,Electronics,12,899.00,10788.00,7552.00,3236.00,28,Male,Online,4.7
+1048,2024-04-23,West,USA,Grace Kim,Storage Cabinet,Furniture,13,300.00,3900.00,2340.00,1560.00,34,Female,Online,4.0
+1049,2024-05-01,North,USA,Henry Patel,Tablet Air,Electronics,20,600.00,12000.00,8400.00,3600.00,43,Male,Online,4.8
+1050,2024-05-03,South,USA,Bob Smith,Coffee Table,Furniture,10,180.00,1800.00,1080.00,720.00,30,Female,Store,4.2
+1051,2024-05-05,East,Canada,Carol White,Laptop Pro,Electronics,7,1200.00,8400.00,5880.00,2520.00,47,Female,Online,4.6
+1052,2024-05-07,West,USA,David Lee,Sofa Set,Furniture,3,1500.00,4500.00,2700.00,1800.00,55,Male,Store,4.4
+1053,2024-05-09,North,USA,Alice Johnson,Bluetooth Speaker,Electronics,32,80.00,2560.00,1536.00,1024.00,25,Female,Online,4.5
+1054,2024-05-11,South,Mexico,Eva Martinez,Bookshelf,Furniture,20,120.00,2400.00,1200.00,1200.00,49,Male,Online,3.9
+1055,2024-05-13,East,Canada,Frank Brown,Wireless Headphones,Electronics,38,150.00,5700.00,3420.00,2280.00,32,Male,Store,4.6
+1056,2024-05-15,West,USA,Grace Kim,Ergonomic Chair,Furniture,8,400.00,3200.00,1920.00,1280.00,36,Female,Online,4.1
+1057,2024-05-17,North,USA,Henry Patel,Smart Watch,Electronics,23,350.00,8050.00,4830.00,3220.00,41,Male,Online,4.8
+1058,2024-05-19,South,USA,Bob Smith,Dining Table,Furniture,5,550.00,2750.00,1650.00,1100.00,56,Female,Store,4.3
+1059,2024-05-21,East,Canada,Carol White,Gaming PC,Electronics,7,2200.00,15400.00,10780.00,4620.00,29,Male,Online,4.9
+1060,2024-05-23,West,USA,David Lee,Wardrobe,Furniture,6,900.00,5400.00,3240.00,2160.00,42,Female,Store,4.0

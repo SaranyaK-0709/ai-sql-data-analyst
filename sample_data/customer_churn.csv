@@ -1,0 +1,16 @@
+customer_id,gender,tenure_months,contract_type,monthly_charges,churned
+CUST-101,Female,12,Month-to-Month,65.50,Yes
+CUST-102,Male,34,One Year,45.20,No
+CUST-103,Male,2,Month-to-Month,89.90,Yes
+CUST-104,Female,60,Two Year,105.00,No
+CUST-105,Female,8,Month-to-Month,70.15,Yes
+CUST-106,Male,24,One Year,55.40,No
+CUST-107,Female,48,Two Year,92.80,No
+CUST-108,Male,5,Month-to-Month,78.30,Yes
+CUST-109,Female,18,One Year,60.00,No
+CUST-110,Male,72,Two Year,115.50,No
+CUST-111,Female,1,Month-to-Month,84.10,Yes
+CUST-112,Male,36,Two Year,98.20,No
+CUST-113,Female,15,Month-to-Month,66.00,No
+CUST-114,Male,9,Month-to-Month,73.50,Yes
+CUST-115,Female,52,Two Year,110.00,No

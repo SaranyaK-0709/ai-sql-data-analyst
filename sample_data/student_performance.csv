@@ -1,0 +1,31 @@
+student_id,name,age,gender,department,year_of_study,attendance_pct,math_score,science_score,english_score,history_score,programming_score,cgpa,internship_done,extracurricular_activities,library_visits_per_month,study_hours_per_day,part_time_job,scholarship,stress_level
+S001,Aarav Sharma,19,Male,Computer Science,1,92,88,85,76,70,94,8.6,No,Yes,8,5.5,No,Yes,Low
+S002,Priya Nair,20,Female,Biology,2,88,72,91,84,79,45,8.1,No,Yes,12,6.0,No,Yes,Medium
+S003,Rohit Verma,21,Male,Mechanical Eng,3,74,80,78,65,60,55,6.9,Yes,No,3,4.0,Yes,No,High
+S004,Sneha Patel,22,Female,Computer Science,4,95,92,88,90,82,97,9.2,Yes,Yes,10,7.0,No,Yes,Low
+S005,Aditya Kumar,20,Male,Electronics,2,81,75,80,70,68,72,7.4,No,No,4,4.5,Yes,No,Medium
+S006,Meena Iyer,21,Female,Mathematics,3,89,96,90,88,85,80,8.8,Yes,Yes,15,6.5,No,Yes,Low
+S007,Vikram Singh,23,Male,Civil Eng,4,68,65,62,58,70,40,6.2,Yes,No,2,3.5,Yes,No,High
+S008,Kavita Reddy,19,Female,Chemistry,1,91,78,93,82,76,50,8.3,No,Yes,11,5.5,No,No,Medium
+S009,Sanjay Mishra,22,Male,Computer Science,4,85,90,84,78,72,95,8.7,Yes,Yes,7,6.0,No,Yes,Low
+S010,Anjali Gupta,20,Female,Biology,2,93,70,94,86,80,42,8.4,No,Yes,13,6.5,No,Yes,Low
+S011,Rahul Das,21,Male,Physics,3,77,88,92,68,65,60,7.7,Yes,No,5,4.5,Yes,No,Medium
+S012,Pooja Joshi,22,Female,Electronics,4,80,74,79,73,69,70,7.3,Yes,No,4,4.0,Yes,No,High
+S013,Kiran Rao,19,Male,Mathematics,1,87,94,88,75,78,82,8.0,No,Yes,9,5.0,No,No,Medium
+S014,Lakshmi Pillai,20,Female,Computer Science,2,96,91,87,92,84,98,9.4,No,Yes,14,7.5,No,Yes,Low
+S015,Deepak Nair,23,Male,Mechanical Eng,4,63,68,65,55,58,48,6.0,Yes,No,1,3.0,Yes,No,High
+S016,Ritu Sharma,21,Female,Chemistry,3,84,76,91,80,74,52,7.9,Yes,Yes,10,5.5,No,Yes,Medium
+S017,Arjun Tiwari,22,Male,Civil Eng,4,72,62,60,62,65,38,6.4,Yes,No,2,3.5,Yes,No,High
+S018,Nisha Mehta,19,Female,Biology,1,90,69,95,88,83,44,8.6,No,Yes,16,6.0,No,Yes,Low
+S019,Suresh Bhat,20,Male,Electronics,2,78,77,76,66,63,68,7.1,No,No,3,4.0,Yes,No,Medium
+S020,Divya Krishnan,21,Female,Computer Science,3,94,93,89,91,86,96,9.1,Yes,Yes,11,7.0,No,Yes,Low
+S021,Manish Jha,22,Male,Physics,4,70,85,88,64,60,58,7.2,Yes,No,4,4.5,Yes,No,High
+S022,Asha Desai,23,Female,Mathematics,4,88,98,92,87,88,84,9.0,Yes,Yes,17,6.5,No,Yes,Low
+S023,Naveen Pillai,20,Male,Mechanical Eng,2,75,72,70,60,56,50,6.7,No,No,2,3.8,Yes,No,High
+S024,Geeta Agarwal,19,Female,Computer Science,1,93,87,84,89,80,93,8.8,No,Yes,9,6.0,No,No,Low
+S025,Tarun Bose,21,Male,Chemistry,3,82,74,89,71,67,48,7.6,Yes,No,6,4.8,Yes,No,Medium
+S026,Sonia Kapoor,20,Female,Biology,2,91,68,96,90,85,40,8.5,No,Yes,14,6.5,No,Yes,Low
+S027,Amit Rastogi,22,Male,Civil Eng,4,67,60,58,56,62,35,5.9,Yes,No,1,3.0,Yes,No,High
+S028,Preethi Nambiar,21,Female,Electronics,3,86,76,80,74,71,72,7.8,Yes,Yes,7,5.0,No,No,Medium
+S029,Harish Reddy,23,Male,Computer Science,4,89,94,86,80,75,97,9.0,Yes,Yes,10,7.0,No,Yes,Low
+S030,Smitha Rao,19,Female,Mathematics,1,90,97,91,89,87,81,9.3,No,Yes,18,7.0,No,Yes,Low
